@@ -40,3 +40,4 @@ RUN { \
 
 RUN rm -rf /var/www/html \
     && chmod 0777 /tmp/
+
